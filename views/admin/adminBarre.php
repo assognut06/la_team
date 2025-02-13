@@ -1,7 +1,7 @@
 <div>
     <ul class="nav nav-tabs">
     <li class="nav-item">
-            <a class="nav-link<?= (isset($_GET['formSlug']) && $_GET['formSlug'] === 'adhesion-a-l-association-gnut-06') ? ' active' : '' ?>" aria-current="item" href="?page=<?= $_GET['page'] ?>&item=orders&formType=Membership&formSlug=adhesion-a-l-association-gnut-06">Adhérants</a>
+            <a class="nav-link<?= (isset($_GET['formSlug']) && $_GET['formSlug'] === 'adhesions-a-la-team') ? ' active' : '' ?>" aria-current="item" href="?page=<?= $_GET['page'] ?>&item=orders&formType=Membership&formSlug=adhesions-a-la-team">Adhérants</a>
         </li>
         <li class="nav-item">
             <a class="nav-link<?= (isset($_GET['item']) && $_GET['item'] === 'orders' && !isset($_GET['formSlug'])) ? ' active' : '' ?>" href="?page=<?= $_GET['page'] ?>&item=orders">Billets</a>

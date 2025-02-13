@@ -7,8 +7,8 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril Fatface">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Association La Team est une association régie par la loi 1901 domiciliée à Nice, dédiée à l'inclusion des personnes en situation de handicap grâce aux technologies innovantes. Nous utilisons la réalité virtuelle, la réalité augmentée et la réalité mixte pour offrir des expériences concrètes et enrichissantes aux personnes en situation de handicap, favorisant ainsi leur intégration sociale et leur épanouissement. Rejoignez-nous pour construire une société inclusive !"> 
-  <meta name="keywords" content="association, La Team, inclusion, handicap, réalité virtuelle, réalité augmentée, réalité mixte, technologies innovantes, visite hôpital, stages, société inclusive"> 
+  <meta name="description" content="La Team à Nice est une association dédiée à la promotion culturelle et à l'éducation, intervenant auprès des publics défavorisés et en situation de dépendance. Rejoignez-nous pour des animations enrichissantes et solidaires.">
+  <meta name="keywords" content="association La Team, Nice, promotion culturelle, éducation, public défavorisé, dépendance, animations culturelles, solidarité, bénévolat, activités éducatives">
   <meta name="author" content="Association La Team">
   <link rel="stylesheet" href="css/style.css" />
   <title>Association La Team - Des Mondes Virtuels, des Liens Réels : L'Inclusion à Portée de Main</title>

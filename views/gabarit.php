@@ -20,15 +20,15 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="images/banniere.jpg" class="d-block w-100" alt="femme avec casque vr">
+                    <img src="images/FB_IMG_1739261212588.jpg" class="d-block w-100" alt="femme avec casque vr">
                     <div class="carousel-caption d-md-block">
-                        <h5><strong class="fs-1"></strong></h5>
+                        <h5><strong class="fs-1">Concert</strong></h5>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="images/banniere.jpg" class="d-block w-100" alt="ourson peluche dans hopital">
+                    <img src="images/FB_IMG_1739261220573.jpg" class="d-block w-100" alt="ourson peluche dans hopital">
                     <div class="carousel-caption d-md-block">
-                        <h5><strong class="fs-1"></strong></h5>
+                        <h5><strong class="fs-1">Concert</strong></h5>
                     </div>
                 </div>
             </div>
