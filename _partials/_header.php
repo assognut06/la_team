@@ -9,7 +9,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="La Team à Nice est une association dédiée à la promotion culturelle et à l'éducation, intervenant auprès des publics défavorisés et en situation de dépendance. Rejoignez-nous pour des animations enrichissantes et solidaires.">
   <meta name="keywords" content="association La Team, Nice, promotion culturelle, éducation, public défavorisé, dépendance, animations culturelles, solidarité, bénévolat, activités éducatives">
-
   <meta name="author" content="Association La Team">
   <link rel="stylesheet" href="css/style.css" />
   <title>Association La Team - Tremplin des échanges de l'art musical</title>

@@ -52,7 +52,10 @@
             </div> -->
         <!--Contenu-->
 
-        <h1 class="text-center my-5 text-primary shadow-lg">Association La Team</h1>
+        <p class="text-center my-5 text-primary shadow-lg fs-1 fw-bold">Association La Team</p>
+        <div class="text-center my-5">
+            <a href="https://framevr.io/la-team" target="_blank" class="btn btn-danger btn-lg fs-3 fw-bold">Visitez notre espace VR</a>
+        </div>
         <!-- Bouton pour ouvrir la vidéo -->
         <!-- <div class="text-center">
                 <button type="button" class="btn btn-success text-bg-success p-4 my-5 text-uppercase text-center" data-bs-toggle="modal" data-bs-target="#oModalYouTube">
